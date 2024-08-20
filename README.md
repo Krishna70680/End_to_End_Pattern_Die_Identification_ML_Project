@@ -1,2 +1,2 @@
-# Pattern_Die_Identification_Image_Classification
+# End_to_End_Pattern_Die_Identification_ML_Project
 <br> Author: Krishna Maddheshiya
